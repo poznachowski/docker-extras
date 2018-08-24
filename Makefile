@@ -3,7 +3,8 @@ scripts = docker-purge \
 					docker-last \
 					docker-stop-last \
 					docker-ip \
-					docker-ip-last
+					docker-ip-last \
+					docker-stop-all
 
 install:
 	@echo "Installing docker-extras..." ; \
